@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\bin\Debug\NPOIProject.exe.config
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\bin\Debug\NPOIProject.exe
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\bin\Debug\NPOIProject.pdb
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\bin\Debug\NPOI.dll
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\obj\Debug\NPOIProject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\obj\Debug\NPOIProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\obj\Debug\NPOIProject.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\obj\Debug\NPOIProject.exe
+C:\Users\Administrator\source\repos\ListToNpoi\NPOIProject\obj\Debug\NPOIProject.pdb
